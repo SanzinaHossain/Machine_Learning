@@ -1,3 +1,7 @@
+## Machine Learning
+
+![AI, ML, deep learning, data science](https://www.eurixgroup.com/wp-content/uploads/2021/01/ml-e1610553826718.jpg)
+
 ## What is machine learning?
 
 The term 'machine learning' is one of the most popular and frequently used terms of today. 
@@ -25,9 +29,6 @@ This motivation is loosely inspired by how the human brain learns certain things
 
 ✅ Think for a minute why a business would want to try to use machine learning strategies vs. creating a hard-coded rules-based engine.
 
-## AI, ML, Deep Learning
-
-![AI, ML, deep learning, data science](https://miro.medium.com/max/1200/1*c_fiB-YgbnMl6nntYGBMHQ.jpeg)
 
 ## Conclusion
 
