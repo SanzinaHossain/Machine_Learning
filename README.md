@@ -27,7 +27,7 @@ This motivation is loosely inspired by how the human brain learns certain things
 
 ## AI, ML, Deep Learning
 
-![AI, ML, deep learning, data science](images/ai-ml-ds.png)
+![AI, ML, deep learning, data science](https://miro.medium.com/max/1200/1*c_fiB-YgbnMl6nntYGBMHQ.jpeg)
 
 ## Conclusion
 
